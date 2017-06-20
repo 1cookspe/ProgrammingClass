@@ -7,7 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FEFE5B7F1D9AAD7D0045D3A4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEFE5B7E1D9AAD7D0045D3A4 /* main.cpp */; };
+		FE3DC3911E25349F000B1B06 /* sgablec_lab08_q2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC38F1E25349F000B1B06 /* sgablec_lab08_q2.cpp */; };
+		FE3DC3921E25349F000B1B06 /* sgablec_lab08_q1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3901E25349F000B1B06 /* sgablec_lab08_q1.cpp */; };
+		FE3DC3961E2534C8000B1B06 /* sgablec_lab07_q2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3931E2534C8000B1B06 /* sgablec_lab07_q2.cpp */; };
+		FE3DC3971E2534C8000B1B06 /* sgablec_lab07_q1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3941E2534C8000B1B06 /* sgablec_lab07_q1.cpp */; };
+		FE3DC3981E2534C8000B1B06 /* sgablec_lab07_q3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3951E2534C8000B1B06 /* sgablec_lab07_q3.cpp */; };
+		FE3DC39C1E2534E1000B1B06 /* sgablec_lab06_q2.cp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3991E2534E1000B1B06 /* sgablec_lab06_q2.cp */; };
+		FE3DC39D1E2534E1000B1B06 /* sgablec_lab06_q3.cp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC39A1E2534E1000B1B06 /* sgablec_lab06_q3.cp */; };
+		FE3DC39E1E2534E1000B1B06 /* sgablec_lab06_q1.cp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC39B1E2534E1000B1B06 /* sgablec_lab06_q1.cp */; };
+		FE3DC3A21E2534EE000B1B06 /* sgablec_lab05_q2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC39F1E2534EE000B1B06 /* sgablec_lab05_q2.cpp */; };
+		FE3DC3A31E2534EE000B1B06 /* sgablec_lab05_q3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3A01E2534EE000B1B06 /* sgablec_lab05_q3.cpp */; };
+		FE3DC3A41E2534EE000B1B06 /* sgablec_lab05_q1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3A11E2534EE000B1B06 /* sgablec_lab05_q1.cpp */; };
+		FE3DC3A71E2534FA000B1B06 /* sgablec_lab04_q2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3A51E2534FA000B1B06 /* sgablec_lab04_q2.cpp */; };
+		FE3DC3A81E2534FA000B1B06 /* sgablec_lab04_q1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3A61E2534FA000B1B06 /* sgablec_lab04_q1.cpp */; };
+		FE3DC3AA1E253591000B1B06 /* sgablec_lab03_q1.cp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3A91E253591000B1B06 /* sgablec_lab03_q1.cp */; };
+		FE3DC3AE1E253624000B1B06 /* sgablec_lab03_q2.cp in Sources */ = {isa = PBXBuildFile; fileRef = FE3DC3AD1E253624000B1B06 /* sgablec_lab03_q2.cp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +37,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FE3DC38F1E25349F000B1B06 /* sgablec_lab08_q2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab08_q2.cpp; path = Lab00/sgablec_lab08_q2.cpp; sourceTree = "<group>"; };
+		FE3DC3901E25349F000B1B06 /* sgablec_lab08_q1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab08_q1.cpp; path = Lab00/sgablec_lab08_q1.cpp; sourceTree = "<group>"; };
+		FE3DC3931E2534C8000B1B06 /* sgablec_lab07_q2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab07_q2.cpp; path = Lab00/sgablec_lab07_q2.cpp; sourceTree = "<group>"; };
+		FE3DC3941E2534C8000B1B06 /* sgablec_lab07_q1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab07_q1.cpp; path = Lab00/sgablec_lab07_q1.cpp; sourceTree = "<group>"; };
+		FE3DC3951E2534C8000B1B06 /* sgablec_lab07_q3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab07_q3.cpp; path = Lab00/sgablec_lab07_q3.cpp; sourceTree = "<group>"; };
+		FE3DC3991E2534E1000B1B06 /* sgablec_lab06_q2.cp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab06_q2.cp; path = Lab00/sgablec_lab06_q2.cp; sourceTree = "<group>"; };
+		FE3DC39A1E2534E1000B1B06 /* sgablec_lab06_q3.cp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab06_q3.cp; path = Lab00/sgablec_lab06_q3.cp; sourceTree = "<group>"; };
+		FE3DC39B1E2534E1000B1B06 /* sgablec_lab06_q1.cp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab06_q1.cp; path = Lab00/sgablec_lab06_q1.cp; sourceTree = "<group>"; };
+		FE3DC39F1E2534EE000B1B06 /* sgablec_lab05_q2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab05_q2.cpp; path = Lab00/sgablec_lab05_q2.cpp; sourceTree = "<group>"; };
+		FE3DC3A01E2534EE000B1B06 /* sgablec_lab05_q3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab05_q3.cpp; path = Lab00/sgablec_lab05_q3.cpp; sourceTree = "<group>"; };
+		FE3DC3A11E2534EE000B1B06 /* sgablec_lab05_q1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab05_q1.cpp; path = Lab00/sgablec_lab05_q1.cpp; sourceTree = "<group>"; };
+		FE3DC3A51E2534FA000B1B06 /* sgablec_lab04_q2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab04_q2.cpp; path = Lab00/sgablec_lab04_q2.cpp; sourceTree = "<group>"; };
+		FE3DC3A61E2534FA000B1B06 /* sgablec_lab04_q1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sgablec_lab04_q1.cpp; path = Lab00/sgablec_lab04_q1.cpp; sourceTree = "<group>"; };
+		FE3DC3A91E253591000B1B06 /* sgablec_lab03_q1.cp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sgablec_lab03_q1.cp; sourceTree = "<group>"; };
+		FE3DC3AD1E253624000B1B06 /* sgablec_lab03_q2.cp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sgablec_lab03_q2.cp; sourceTree = "<group>"; };
 		FEFE5B7B1D9AAD7D0045D3A4 /* Lab00 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lab00; sourceTree = BUILT_PRODUCTS_DIR; };
-		FEFE5B7E1D9AAD7D0045D3A4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,9 +66,88 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE3DC3871E2533F2000B1B06 /* Lab01 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Lab01;
+			sourceTree = "<group>";
+		};
+		FE3DC3881E2533FC000B1B06 /* Lab02 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Lab02;
+			sourceTree = "<group>";
+		};
+		FE3DC3891E253404000B1B06 /* Lab03 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC3A91E253591000B1B06 /* sgablec_lab03_q1.cp */,
+				FE3DC3AD1E253624000B1B06 /* sgablec_lab03_q2.cp */,
+			);
+			name = Lab03;
+			sourceTree = "<group>";
+		};
+		FE3DC38A1E25340B000B1B06 /* Lab04 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC3A51E2534FA000B1B06 /* sgablec_lab04_q2.cpp */,
+				FE3DC3A61E2534FA000B1B06 /* sgablec_lab04_q1.cpp */,
+			);
+			name = Lab04;
+			sourceTree = "<group>";
+		};
+		FE3DC38B1E253411000B1B06 /* Lab05 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC39F1E2534EE000B1B06 /* sgablec_lab05_q2.cpp */,
+				FE3DC3A01E2534EE000B1B06 /* sgablec_lab05_q3.cpp */,
+				FE3DC3A11E2534EE000B1B06 /* sgablec_lab05_q1.cpp */,
+			);
+			name = Lab05;
+			sourceTree = "<group>";
+		};
+		FE3DC38C1E253464000B1B06 /* Lab06 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC3991E2534E1000B1B06 /* sgablec_lab06_q2.cp */,
+				FE3DC39A1E2534E1000B1B06 /* sgablec_lab06_q3.cp */,
+				FE3DC39B1E2534E1000B1B06 /* sgablec_lab06_q1.cp */,
+			);
+			name = Lab06;
+			sourceTree = "<group>";
+		};
+		FE3DC38D1E25346C000B1B06 /* Lab07 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC3931E2534C8000B1B06 /* sgablec_lab07_q2.cpp */,
+				FE3DC3941E2534C8000B1B06 /* sgablec_lab07_q1.cpp */,
+				FE3DC3951E2534C8000B1B06 /* sgablec_lab07_q3.cpp */,
+			);
+			name = Lab07;
+			sourceTree = "<group>";
+		};
+		FE3DC38E1E253475000B1B06 /* Lab08 */ = {
+			isa = PBXGroup;
+			children = (
+				FE3DC38F1E25349F000B1B06 /* sgablec_lab08_q2.cpp */,
+				FE3DC3901E25349F000B1B06 /* sgablec_lab08_q1.cpp */,
+			);
+			name = Lab08;
+			sourceTree = "<group>";
+		};
 		FEFE5B721D9AAD7C0045D3A4 = {
 			isa = PBXGroup;
 			children = (
+				FE3DC38E1E253475000B1B06 /* Lab08 */,
+				FE3DC38D1E25346C000B1B06 /* Lab07 */,
+				FE3DC38C1E253464000B1B06 /* Lab06 */,
+				FE3DC38B1E253411000B1B06 /* Lab05 */,
+				FE3DC38A1E25340B000B1B06 /* Lab04 */,
+				FE3DC3891E253404000B1B06 /* Lab03 */,
+				FE3DC3881E2533FC000B1B06 /* Lab02 */,
+				FE3DC3871E2533F2000B1B06 /* Lab01 */,
 				FEFE5B7D1D9AAD7D0045D3A4 /* Lab00 */,
 				FEFE5B7C1D9AAD7D0045D3A4 /* Products */,
 			);
@@ -57,7 +164,6 @@
 		FEFE5B7D1D9AAD7D0045D3A4 /* Lab00 */ = {
 			isa = PBXGroup;
 			children = (
-				FEFE5B7E1D9AAD7D0045D3A4 /* main.cpp */,
 			);
 			path = Lab00;
 			sourceTree = "<group>";
@@ -118,7 +224,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEFE5B7F1D9AAD7D0045D3A4 /* main.cpp in Sources */,
+				FE3DC3971E2534C8000B1B06 /* sgablec_lab07_q1.cpp in Sources */,
+				FE3DC3A21E2534EE000B1B06 /* sgablec_lab05_q2.cpp in Sources */,
+				FE3DC3A31E2534EE000B1B06 /* sgablec_lab05_q3.cpp in Sources */,
+				FE3DC3AE1E253624000B1B06 /* sgablec_lab03_q2.cp in Sources */,
+				FE3DC3961E2534C8000B1B06 /* sgablec_lab07_q2.cpp in Sources */,
+				FE3DC39E1E2534E1000B1B06 /* sgablec_lab06_q1.cp in Sources */,
+				FE3DC3981E2534C8000B1B06 /* sgablec_lab07_q3.cpp in Sources */,
+				FE3DC3A81E2534FA000B1B06 /* sgablec_lab04_q1.cpp in Sources */,
+				FE3DC3A71E2534FA000B1B06 /* sgablec_lab04_q2.cpp in Sources */,
+				FE3DC39C1E2534E1000B1B06 /* sgablec_lab06_q2.cp in Sources */,
+				FE3DC3AA1E253591000B1B06 /* sgablec_lab03_q1.cp in Sources */,
+				FE3DC3911E25349F000B1B06 /* sgablec_lab08_q2.cpp in Sources */,
+				FE3DC3A41E2534EE000B1B06 /* sgablec_lab05_q1.cpp in Sources */,
+				FE3DC3921E25349F000B1B06 /* sgablec_lab08_q1.cpp in Sources */,
+				FE3DC39D1E2534E1000B1B06 /* sgablec_lab06_q3.cp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +359,7 @@
 				FEFE5B841D9AAD7D0045D3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
